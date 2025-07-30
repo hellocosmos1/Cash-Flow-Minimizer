@@ -1,5 +1,5 @@
 # Cash-Flow-Minimizer
-This system minimizes the number of transactions among multiple banks in the different corners of the world that use different modes of payment. There is one world bank (with all payment modes) to act as an intermediary between banks that have no common mode of payment. 
+This system minimizes the number of transactions among multiple people in the different corners of the world that use different modes of payment. There is one world bank (with all payment modes) to act as an intermediary between people that have no common mode of payment. 
 
 # Getting-Started
 The Cash Flow Minimizer project aims to minimize the number of transactions among multiple people with different payment modes. It solves the problem of finding an optimal solution to settle the debts between people using the minimum number of transactions.There is one person (with all payment modes) to act as an intermediary between peoples that have no common mode of payment.
